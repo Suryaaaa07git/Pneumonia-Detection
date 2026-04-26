@@ -33,4 +33,3 @@ This project uses the **Chest X-ray Pneumonia Dataset**.
 ### 🔽 Download Dataset:
 - Search on Kaggle: *Chest X-Ray Pneumonia Dataset*
 
-### 📁 Folder Structure:
